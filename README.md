@@ -8,9 +8,9 @@
 ### Our team competed with all the IITs and finally we got BRONZE for our performance.
 
 #### Team members:
-Jaskaran Chhabra
-Chandan Bhat
-Adarsh Chaudhary
-Shubham Chouksey
-Sharique Nomani
-Manavjeet Gupta
+##### Jaskaran Chhabra
+##### Chandan Bhat
+##### Adarsh Chaudhary
+##### Shubham Chouksey
+##### Sharique Nomani
+##### Manavjeet Gupta
