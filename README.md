@@ -4,7 +4,7 @@
 #### [Problem Statement](/problem_statement.pdf)
 #### [Final Report](/final_report.pdf)
 
-### We have made a bot for step-up and step-down motion. It also does basic agricultural activities like ploughig and sowing.
+### We have made a bot for stair ascending and descending motion. It also does basic agricultural activities like ploughig and sowing.
 ### This bot can be further scaled and integrated to do all major agriultural activities i.e. Terrace Farming in real life.
 ### Our team competed with all the IITs and finally we got BRONZE for our performance.
 
